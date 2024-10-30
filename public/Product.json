@@ -1,0 +1,93 @@
+
+[
+  {
+    "id": 1,
+    "img": "https://wallpapercave.com/wp/wp7399516.jpg",
+    "name": "Organic Apples",
+    "description": "Fresh and crisp organic apples sourced from local farms. Perfect for a healthy snack or to add a juicy crunch to your favorite recipes.",
+    "price": 2.99,
+    "category": "Fruits",
+    "available": true,
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "img": "https://wallpapercave.com/wp/wp14247150.png",
+    "name": "Bananas",
+    "description": "Naturally ripened bananas, perfect for a healthy snack. High in potassium and ideal for smoothies, baking, or simply enjoying on their own.",
+    "price": 1.29,
+    "category": "Fruits",
+    "available": true,
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "img": "https://wallpapercave.com/wp/wp2293464.jpg",
+    "name": "Oranges",
+    "description": "Juicy and sweet oranges packed with Vitamin C. Enjoy them fresh, add to salads, or make a refreshing orange juice.",
+    "price": 3.49,
+    "category": "Fruits",
+    "available": false,
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "img": "https://wallpapercave.com/wp/wp13470491.jpg",
+    "name": "Strawberries",
+    "description": "Bright red and delicious strawberries, freshly picked. These berries are perfect for desserts, smoothies, or as a refreshing snack.",
+    "price": 4.59,
+    "category": "Berries",
+    "available": true,
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "img": "https://wallpapercave.com/wp/wp14135783.jpg",
+    "name": "Watermelon",
+    "description": "Refreshing and hydrating watermelon for hot days. Sweet and juicy, great for salads, beverages, or as a cooling summer treat.",
+    "price": 5.99,
+    "category": "Fruits",
+    "available": true,
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "img": "https://wallpapercave.com/wp/wp10599862.jpg",
+    "name": "Pineapple",
+    "description": "Sweet and tangy pineapples, perfect for tropical cravings. Great for desserts, cooking, or enjoying fresh. Full of tropical flavor and Vitamin C.",
+    "price": 3.99,
+    "category": "Tropical",
+    "available": false,
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "img": "https://wallpapercave.com/wp/wp6944093.jpg",
+    "name": "Blueberries",
+    "description": "Antioxidant-rich blueberries that burst with flavor. Perfect for baking, smoothies, or topping your favorite breakfast foods.",
+    "price": 4.89,
+    "category": "Berries",
+    "available": true,
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "img": "https://wallpapercave.com/wp/wp9223497.jpg",
+    "name": "Mangoes",
+    "description": "Luscious and juicy mangoes, ideal for smoothies and desserts. Their unique flavor and aroma make them a tropical favorite for all ages.",
+    "price": 3.29,
+    "category": "Tropical",
+    "available": true,
+    "rating": 4.9
+  },
+  {
+    "id": 9,
+    "img": "https://wallpapercave.com/fuwp/uwp3688272.jpeg",
+    "name": "Grapes",
+    "description": "Seedless grapes that are both sweet and easy to enjoy. Snack on them fresh or add them to salads for a burst of natural sweetness.",
+    "price": 2.59,
+    "category": "Fruits",
+    "available": true,
+    "rating": 4.5
+  }
+]
