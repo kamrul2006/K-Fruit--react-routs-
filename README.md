@@ -1,4 +1,5 @@
-# React + Vite
+# K-Fruit
+<img  src="https://i.ibb.co.com/pPGfmzx/kfruit.png" width="30px" />>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
